@@ -135,6 +135,7 @@ div.Example {
 }
 .Info a {
     color: rgb(39, 124, 235);
+    cursor: pointer;
 }
 canvas {
     position: absolute;
