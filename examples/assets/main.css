@@ -131,7 +131,7 @@ div.Example {
 .Info {
     padding: 20px;
     position: relative;
-    z-index: 1;
+    z-index: 10;
 }
 .Info a {
     color: rgb(39, 124, 235);
@@ -142,4 +142,9 @@ canvas {
     height: 100%;
     top: 0;
     left: 0;
+}
+.choice{
+    padding: 20px;
+    position: relative;
+    z-index: 1;
 }
